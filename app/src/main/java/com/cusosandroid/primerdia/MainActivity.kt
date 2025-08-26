@@ -29,7 +29,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-22131390
+//22131390
 
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
@@ -47,4 +47,4 @@ fun GreetingPreview() {
     }
 }
 
-FAC K
+///FAC K
